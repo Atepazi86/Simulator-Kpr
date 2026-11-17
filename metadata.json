@@ -1,0 +1,6 @@
+{
+  "name": "Simulator Cicilan KPR & Kredit — Flat vs Floating",
+  "description": "Kalkulator finansial untuk membandingkan skema cicilan Bunga Flat vs Fixed-Floating serta simulasi pelunasan sebagian untuk memangkas tenor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
